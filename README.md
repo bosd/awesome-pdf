@@ -30,7 +30,7 @@ A curated list of resources around PDF files
 * [pdfminer.six](https://pypi.org/project/pdfminer.six/): a Python library for extracting information from PDF documents
     * [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
 * [Tabula](https://github.com/tabulapdf/tabula): an application for extracting tables
-* [camelot](https://github.com/atlanhq/camelot): PDF Table Extraction
+* [pypdf_table_extraction](https://github.com/py-pdf/pypdf_table_extraction): PDF Table Extraction
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding): A curated list of resources for Document Understanding (DU) topic
 
 ## Generators
